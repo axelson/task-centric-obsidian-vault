@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "57781c4e0a208851",
+    "type": "split",
+    "children": [
+      {
+        "id": "4980433a03e18a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43679a36af924129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meta/About this Vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b57e0baa2fabbbfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbbf11d0785912e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b1cb710ffcc6f01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c8f4c535d2a8175",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a17f95d04b39f5ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df8d929139c2d02e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9f7ca11e96daec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85c82424b1477479",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "meta/About this Vault.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51b4603141968174",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "meta/About this Vault.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3f32fdd3c0057d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98947f920be6a51c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "meta/About this Vault.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "copilot:Copilot Chat": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "43679a36af924129",
+  "lastOpenFiles": [
+    "Daily Notes/2023-09-23.md",
+    "meta/About this Vault.md",
+    "Daily Notes",
+    "_tools/Daily Notes Template.md",
+    "_tools",
+    "meta",
+    "meta/Original Reddit Post Contents.md"
+  ]
+}
