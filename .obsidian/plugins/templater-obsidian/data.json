@@ -7,7 +7,7 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -15,8 +15,20 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Project Notes",
+      "template": "_tools/Templates/Project Notes Template.md"
+    },
+    {
+      "folder": "Meeting Notes",
+      "template": "_tools/Templates/Meeting Template.md"
+    },
+    {
+      "folder": "Daily Notes",
+      "template": "_tools/Templates/Daily Notes Template.md"
+    },
+    {
+      "folder": "People",
+      "template": "_tools/Templates/Person Template.md"
     }
   ],
   "syntax_highlighting": true,

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43679a36af924129",
+            "id": "636b71af999909c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meta/About this Vault.md",
+                "file": "Daily Notes/2023-09-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meta/About this Vault.md",
+                "file": "Daily Notes/2023-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meta/About this Vault.md",
+                "file": "Daily Notes/2023-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meta/About this Vault.md"
+                "file": "Daily Notes/2023-09-22.md"
               }
             }
           }
@@ -148,12 +148,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "43679a36af924129",
+  "active": "636b71af999909c9",
   "lastOpenFiles": [
-    "Daily Notes/2023-09-23.md",
+    "Daily Notes/2023-09-24.md",
+    "_tools/Templates/Daily Notes Template.md",
+    "Task Note.md",
+    "Project Notes/ProjectB.md",
+    "Project Notes/ProjectA.md",
+    "Daily Notes/2023-09-22.md",
+    "Meeting Notes/2023-09-29 Engineering Meeting.md",
+    "Meeting Notes/2023-09-22 Marketing Meeting.md",
+    "_tools/Templates/Project Notes Template.md",
+    "_tools/Templates/Meeting Template.md",
+    "People/Mrs Y.md",
+    "People/Mr X.md",
+    "People/Jane Doe.md",
+    "_tools/Templates/Person Template.md",
     "meta/About this Vault.md",
+    "Meeting Notes/2023-09-22 Marketing Staff Meeting.md",
+    "Project Notes/ProjectC.md",
+    "Project Notes/ProjectD.md",
+    "Project Notes/ProjectE.md",
+    "Project Notes/Untitled 1.md",
+    "Project Notes/Untitled 2.md",
+    "Project Notes/ProjectF.md",
+    "Project Notes/ProjectG.md",
+    "Project Notes",
+    "_tools/Templates/Meeting Note Template.md",
+    "_tools/Templates",
+    "Attachments",
+    "People",
+    "Meeting Notes",
     "Daily Notes",
-    "_tools/Daily Notes Template.md",
     "_tools",
     "meta",
     "meta/Original Reddit Post Contents.md"

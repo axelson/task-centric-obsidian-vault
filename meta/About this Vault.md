@@ -21,4 +21,19 @@ Folders I've added
 - Daily Notes
 - Project Notes
 
+Plugin settings changed
+- Templater
+	- apply template on file creation
+
+Tags in meeting notes are used to link the meeting note to the project page, they also link tasks to the project
+
+Project "tags"
+- A project has both a tag and a property, e.g. it may have #ProjectA but also have
+- ProjectA:: Some content about Project A
+
+Decisions I made
+- Use Tasks default task format instead of dataview format (easier to write/read)
+- Create an `Attachments/` folder for all attachments
+- Set up folder templates with the Templater plugin
+
 This workflow reminds me of this other task centric vault
